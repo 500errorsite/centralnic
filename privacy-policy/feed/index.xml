@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Privacy Policy	</title>
-	<atom:link href="/privacy-policy/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://centralnic.netlify.app/privacy-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://centralnic.netlify.app</link>
 	<description>How To Get Your Gambling Business Started</description>
 	<lastBuildDate>Thu, 09 Dec 2021 09:11:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
